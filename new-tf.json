@@ -1877,7 +1877,7 @@
 					"ord":0,
 					"sourceStatusKey":"Unclear",
 					"targetStatusKey":"Estimation",
-					"commentRequired":0,
+					"commentRequired":2,
 					"newAssigneeGroupKey":null,
 					"assigneeSelector":null,
 					"responsibleSelector":null,
