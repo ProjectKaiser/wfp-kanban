@@ -1663,7 +1663,8 @@
 					"responsibleSelector":null,
 					"iconKey":null,
 					"allowedGroupKeys":[
-						"com.triniforce.server.plugins.kernel.files.FTGroup.keys.Assignees"
+						"com.triniforce.server.plugins.kernel.files.FTGroup.keys.Assignees",
+						"com.triniforce.server.plugins.kernel.files.FTGroup.keys.Executor+"
 					],
 					"conditions":[
 					]
